@@ -1,0 +1,48 @@
+{
+    "projects": [
+        {
+            "title": "Vulkan Game Engine",
+            "description": "A 3D rendering engine from the ground up. Implements lighting, supports gltf, object transform hierarchy, etc.",
+            "skills": ["C++", "Vulkan", "GLSL", "HLSL"],
+            "image": "3d_enginess2.png",
+            "superpage": "/vulkan"
+        },
+        {
+            "title": "Music Visualizer",
+            "description": "Displays the decoded audio waveform in real-time, accompanied by a frequency spectrum plot",
+            "skills": ["Rust", "WGPU", "GLSL", "FFT", "Multithreaded"],
+            "image": "audio_visual_ss1.png",
+            "superpage": "/music_visualizer"
+        },
+        {
+            "title": "Machine Learning Intrusion Detection Tuning Dashboard",
+            "description": "Allows tuning of various machine learning models without touching code. Has hover-hints for every single hyperparameter in the UI and stores performance metrics for previous configurations. ",
+            "skills": ["C++", "Vulkan", "GLSL", "HLSL"],
+            "image": "capstone_ss1.jpeg",
+            "superpage": "/ids_engine"
+        },
+        {
+            "title": "CoD: WaW Zombies HUD Remaster",
+            "description": "The classic Call of Duty: World at War Zombies HUD brought to Black Ops 3 LUI. This remaster was painstakingly compared to the original to capture the nostalgic look and feel of the iconic heads up display. And yes, that is a flamethrower!",
+            "skills": ["C++", "Vulkan", "GLSL", "HLSL"],
+            "image": "hud_remaster.png",
+            "video": "https://youtu.be/cHBl0tvl23o",
+            "superpage": "/hud_remaster"
+        },
+        {
+            "title": "Art Commission Tracker",
+            "description": "A handy phone app specifically tailored to artists who do lots of commissions. Allows 1-touch management of commissions, keeps track of earnings, and is dead simple to use!",
+            "skills": ["C++", "Vulkan", "GLSL", "HLSL"],
+            "image": "comm_app1.jpg",
+            "superpage": "/comm_app"
+        },
+        {
+            "title": "DLL Injector",
+            "description": "When modding games, a DLL injector is a necessary tool, so I wrote one! It conveniently displays the process list, image type (32 bit or 64 bit), keeps a quick-list of DLLs you have used in the past, and remembers the last target process to streamline game modding workflows.",
+            "skills": ["C++", "Vulkan", "GLSL", "HLSL"],
+            "image": "3d_engine_ss1.png",
+            "superpage": "/dll_injector"
+        }
+
+    ]
+}
